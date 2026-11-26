@@ -1,0 +1,22 @@
+# Local runtime state, browser profile (session cookies), ledger & snapshots
+.uc-data/
+uc_chrome_profile/
+uc_tmp_profile_*/
+uc_ledger.json
+uc_config.json
+uc_debug.log
+*.png
+*.html
+
+# Personal trackers (keep examples/sample_tracker.md tracked)
+applications.md
+data/
+*.csv
+*.tsv
+
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
