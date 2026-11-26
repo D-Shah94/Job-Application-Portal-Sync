@@ -202,4 +202,4 @@ liability for incorrect entries or for any consequences of using it.
 
 ## Licence
 
-MIT. See [LICENSE](2026 Dharam Shah).
+MIT. See [LICENSE](LICENSE).
